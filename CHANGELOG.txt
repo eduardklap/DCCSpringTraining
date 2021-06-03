@@ -16,3 +16,8 @@
 
 - finished tidying up raw data
 - saved as csv
+
+ ## [0.2.1] - 2021-06-03
+  ### Added
+  
+- license added
